@@ -5,20 +5,22 @@ linkedin/popova_svetlana
 221B Baker Street, London
 
 Skills
-Creative Development
-Branding & Identity
-Project Management
-Contact Negotiation
-Ad Buying & Planning
-Product Positioning
-Visual Merchandising
-Search Engine Ads
-Process Improvement
-Market Strategizing
-Adobe Creative Suite
-Microsoft Office 2016
-Google Web Analytics
-Fluent in Spanish
+HTML5/CSS3/JavaScript (Core, DOM APIs) 
+Typescript
+Gulp, Webpack
+Bootstrap 
+Git
+Photoshop, Figma
+English level: Elementary 
+Polish level: Elementary 
+
+
+
+
+
+
+
+
 Education
 2010-2015, University of Alabama English Language Institute
 Achievements

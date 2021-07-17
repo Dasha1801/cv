@@ -22,3 +22,26 @@ font-size: 16px;
   min-height: 30vh;
   color: #131313;
 }
+
+.photo-block{
+
+}
+
+.cv-left a{
+  color: #fff;
+}
+.cv-left a:hover{
+  text-decoration: none;
+}
+.cv-left ul{
+  line-height: 175%;
+  padding-left: 30px;
+}
+
+.cv-left ul.contacts-block{
+  list-style-type: none;
+  padding-left: 0;
+}
+/* .cv-left .address{
+  font-style: italic;
+} */
