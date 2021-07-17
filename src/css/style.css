@@ -1,47 +1,91 @@
-body{
-font-size: 16px;
+body {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
 }
 
-.body-bg{
+.body-bg {
   background-image: url(../images/bg.jpg);
   background-size: cover;
 }
-.cv{
+
+.color-grey {
+  color: #4b4b4b;
+}
+
+.cv {
   margin-top: 50px;
   border: 1px solid #4b4b4b;
   box-shadow: 1px 1px 10px #000;
 }
-.cv-left{
+
+.cv-left {
   background: #4b4b4b;
   min-height: 30vh;
-  color:#fff;
+  color: #fff;
 }
 
-.cv-right{
-  background:#fff;
+.cv-right {
+  background: #fff;
   min-height: 30vh;
   color: #131313;
 }
 
-.photo-block{
-
-}
-
-.cv-left a{
+.cv-left a {
   color: #fff;
 }
-.cv-left a:hover{
+
+.cv-left a:hover {
   text-decoration: none;
 }
-.cv-left ul{
+
+.cv-left ul {
   line-height: 175%;
   padding-left: 30px;
 }
 
-.cv-left ul.contacts-block{
+.cv-left ul.contacts-block {
   list-style-type: none;
   padding-left: 0;
 }
-/* .cv-left .address{
-  font-style: italic;
-} */
+
+article{
+  padding: 20px;
+}
+
+.style-title {
+  font-family: "IBM Plex Serif", serif;
+}
+
+.job-title {
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+.lines {
+  overflow: hidden;
+}
+
+.lines::before,
+.lines::after {
+  content: "";
+  display: inline-block;
+  box-sizing: border-box;
+  width: 100%;
+  height: 3px;
+  background: #4b4b4b;
+  border: 1px solid #fff;
+  vertical-align: middle;
+}
+
+.lines::before {
+  margin-left: -100%;
+}
+
+.lines::after {
+  margin-right: -100%;
+}
+
+.link {
+  color: rgb(11, 142, 230);
+}
