@@ -89,3 +89,23 @@ article{
 .link {
   color: rgb(11, 142, 230);
 }
+@media(max-width: 991.98px){
+  .style-title{
+    font-size: 1.3rem;
+  }
+  .cv-left ul{
+    line-height: 150%;
+    padding-left: 25px;
+  }
+}
+
+@media(max-width: 575.98px){
+  .cv{
+    margin-top: 0;
+  }
+  .photo-block img{
+    display: block;
+    max-width: 50%;
+    margin: 0 auto;
+  }
+}
