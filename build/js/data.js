@@ -22,7 +22,7 @@ const data = {
   ],
   "selfEducation":[
     {
-      "link": "#",
+      "link": "https://itgid.info/certificate/view?Certificate%5Buid%5D=dkq6arywef",
       "course": "itgid: HTML, CSS for JavaScript Developers"
     },
     {
