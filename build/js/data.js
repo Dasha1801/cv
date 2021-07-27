@@ -30,7 +30,7 @@ const data = {
       "course": "itgid: JavaScript v.2.0"
     },
     {
-      "link": "#",
+      "link": "https://app.rs.school/certificate/6uordnde",
       "course": "RS School: JavaScript/Front-end Course"
     }
   ],
